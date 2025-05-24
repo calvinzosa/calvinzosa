@@ -1,6 +1,12 @@
 hi.
 
-## socials
+# my website
+
+<a href="https://www.top-hat.net/">
+  <img src="https://www.top-hat.net/logo.png" height="150" />
+</a>
+
+# my socials
 
 [![🎩 (@___what)](https://img.shields.io/static/v1?label=Discord&message=%F0%9F%8E%A9%20(%40___what)&color=gray&labelColor=5b67e6&logo=discord&logoColor=fff)](#)
 [![tophat (@_tophat)](https://img.shields.io/static/v1?label=YouTube&message=tophat%20(%40_tophat)&color=gray&labelColor=fff&logo=youtube&logoColor=f00)](https://www.youtube.com/@_tophat)
